@@ -1,1 +1,1 @@
-# Learning GAN
+# Colorizing Images using Deeplearning
